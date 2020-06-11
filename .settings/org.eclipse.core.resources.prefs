@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/cjj/core/common/BaseController.java=UTF-8
+encoding//src/com/cjj/core/util/ChineseToEnglish.java=UTF-8
+encoding//src/com/cjj/core/util/FileLoadUtil.java=UTF-8
+encoding//src/com/cjj/dao/registermanage/RegisterMapper.java=UTF-8
+encoding//src/com/cjj/po/Register.java=UTF-8
+encoding//src/com/cjj/service/baseinfo/RegistertypeService.java=UTF-8
+encoding//src/com/cjj/service/chargemanage/ChargeService.java=UTF-8
+encoding//src/com/cjj/service/doctorworkstation/MedicalrecordtemplateService.java=UTF-8
+encoding//src/com/cjj/web/chargemanage/ChargeController.java=UTF-8
+encoding//src/com/cjj/web/doctorworkstation/MedicalrecordController.java=UTF-8
+encoding//src/com/cjj/web/registermanage/RegisterController.java=UTF-8
+encoding//src/com/cjj/web/system/ResourceController.java=UTF-8
+encoding//src/com/cjj/web/system/RoleController.java=UTF-8
+encoding//src/com/cjj/web/user/IndexController.java=UTF-8
